@@ -1,3 +1,4 @@
+
 class Translator {
     constructor() {
         this.rateLimitDelay = 500; // 500ms between requests
