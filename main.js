@@ -1,3 +1,4 @@
+
 // Application State
 let fileHandler = null;
 let translator = null;
